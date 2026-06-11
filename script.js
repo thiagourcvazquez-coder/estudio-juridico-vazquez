@@ -7,9 +7,9 @@
 //  4. Copiar tu Public Key (Account → API Keys)
 //  5. Reemplazar los tres valores de abajo
 // ─────────────────────────────────────────────────────────
-const EMAILJS_PUBLIC_KEY  = 'TU_PUBLIC_KEY';   // ← reemplazar
-const EMAILJS_SERVICE_ID  = 'TU_SERVICE_ID';   // ← reemplazar
-const EMAILJS_TEMPLATE_ID = 'TU_TEMPLATE_ID';  // ← reemplazar
+const EMAILJS_PUBLIC_KEY  = '8Qu2uNRLliMZ2cWOy';
+const EMAILJS_SERVICE_ID  = 'service_xgq7c1f';
+const EMAILJS_TEMPLATE_ID = 'template_37s9s9n';
 
 // Mensaje genérico WhatsApp (el flotante y el botón inline ya lo tienen en el href)
 // Si querés cambiarlo en un solo lugar, podés generarlo acá:
